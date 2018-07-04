@@ -1,0 +1,35 @@
+git help
+
+git init
+
+git config --global user.name "name"
+
+git config --global user.email "email"
+
+git add + path
+
+git add -A
+
+git status
+
+git commit -m "mensaje"
+
+git checkout -b NombreDeBranch
+
+git branch nombreDeBranch
+
+git branch -d NombreDeBranch
+
+git checkout NombreDeBranch
+
+git merge NombreDeBranch
+
+git clone URL/name.git
+
+git remote add origin URL/name.git
+
+git remote -v
+
+git push origin NombreDeBranch
+
+git pull origin NombreDeBranch
